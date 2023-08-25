@@ -1,1 +1,1 @@
-# InflearnAutoSkip
+# 인프런 강의 자동 스킵 Chrome extension

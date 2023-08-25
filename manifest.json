@@ -1,0 +1,14 @@
+{
+  "name": "인프런 - 다음 강의 자동 클릭",
+  "description": "바로 적용됩니다.",
+  "manifest_version": 3,
+  "version": "1.0.0",
+  "icons": {
+    "128": "/128.png"
+    },
+  "content_scripts": [{
+    "matches": ["https://www.inflearn.com/*"],
+    "js": ["/main.js"],
+    "run_at": "document_end"
+  }]
+}
