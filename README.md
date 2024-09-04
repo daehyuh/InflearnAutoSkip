@@ -11,6 +11,7 @@ git clone https://github.com/daehyuh/InflearnAutoSkip.git
 ## 적용된 모습  
 ![스크린샷 2023-10-06 오후 10 47 52](https://github.com/daehyuh/InflearnAutoSkip/assets/53990946/725e441d-4547-4383-b01c-0f36a8f1ac88)
 ### 강의를 모두 보시면 자동으로 눌러줍니다
+## (백그라운드에서 틀어놓으면 자동으로 넘어가주는거지 아에 강의를 스킵해주는게 아니예요)
 
 ![image](https://github.com/daehyuh/InflearnAutoSkip/assets/53990946/35dc258c-35d6-4cf5-8802-b4958e48bd0d)
 
